@@ -1,0 +1,6 @@
+students table =>
+teachers => id, name
+cohort => id,name
+
+1 student has one cohort
+1 teacher has several cohorts
